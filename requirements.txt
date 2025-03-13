@@ -1,0 +1,6 @@
+requests==2.18.4 
+pyjwt==1.7.1 
+flask==1.1.1  
+django==2.0.0  
+pymysql==0.9.3  
+cryptography==2.3 
